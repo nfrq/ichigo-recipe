@@ -1,5 +1,3 @@
-require_relative 'recipe'
-
 describe Recipe do
   before do
     Recipe.clear
